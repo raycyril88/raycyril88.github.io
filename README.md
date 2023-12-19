@@ -8,7 +8,7 @@ I am Raycyril Estillore. I've been employed by BARK for more than two years. As 
 Looking forward to working with you!
 
 # Skills
-  hard_skills:
+  Hard Skills:
     - Excel
     - SQL
     - PowerBI
@@ -18,14 +18,18 @@ Looking forward to working with you!
     - Shopify
     - ZenDesk
     - Salesforce
+    - Data Analysis
+    - Data Cleaning
+    - Data Visualization
     
-  soft_skills:
-    - Data Analysis, Cleaning & Visualization
+  Soft Skills:
+    - Analytical Thinking
+    - Problem Solving
     - Strong Communication
     - Attention to Detail
     - Great Interpersonal Skills
     
-  advanced_skills:
+  Advanced Skills:
     - Machine Learning
     - Correlation Analysis
     - Regression Analysis
@@ -40,5 +44,19 @@ Looking forward to working with you!
     - Project Management
     - Data Science and Analytics
     - Finance and Risk
+
+# Projects
+
+  ## [Mapping Underemployment using Statistical Analysis and Predictive Modeling with Python] (https://drive.google.com/drive/folders/1rHNQ_aK74DMUCJmbTXU22amTfLS8xUnH?usp=sharing)
+   - I have utilized statistical analysis to comprehend the existing state of underemployment and forecast future trends in order to provide focused interventions for development.
+   - I've developed a user-friendly prediction model using the Labor Force Survey dataset, employing the SVM model which had the highest accuracy based on testing. This model will efficiently determine whether the employee is underemployed or not. It's an easy and effective tool for making predictions based on key factors.
+
+  ## Excel Dashboard
+  ![](https://github.com/raycyril88/raycyril88.github.io/blob/main/assets/img/Excel%20Dashboard.mp4)
+
+  ## PowerBI Dashboard
+  ![](https://github.com/raycyril88/raycyril88.github.io/blob/main/assets/img/PowerBi%20screenshot.jpg)
+  
+
 
 
