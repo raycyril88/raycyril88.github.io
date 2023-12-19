@@ -47,13 +47,13 @@ Looking forward to working with you!
 
 # Projects
 
-  [Mapping Underemployment using Statistical Analysis and Predictive Modeling with Python](https://drive.google.com/drive/folders/1rHNQ_aK74DMUCJmbTXU22amTfLS8xUnH?usp=sharing)
+[Mapping Underemployment using Statistical Analysis and Predictive Modeling with Python](https://drive.google.com/drive/folders/1rHNQ_aK74DMUCJmbTXU22amTfLS8xUnH?usp=sharing)
    - I have utilized statistical analysis to comprehend the existing state of underemployment and forecast future trends in order to provide focused interventions for development.
    - I've developed a user-friendly prediction model using the Labor Force Survey dataset, employing the SVM model which had the highest accuracy based on testing. This model will efficiently determine whether the employee is underemployed or not. It's an easy and effective tool for making predictions based on key factors.
 
-  [Excel Dashboard](https://github.com/raycyril88/raycyril88.github.io/blob/main/assets/img/Excel%20Dashboard.mp4)
+[Excel Dashboard](https://github.com/raycyril88/raycyril88.github.io/blob/main/assets/img/Excel%20Dashboard.PNG)
 
-  [PowerBI Dashboard](https://github.com/raycyril88/raycyril88.github.io/blob/main/assets/img/PowerBi%20screenshot.jpg)
+[PowerBI Dashboard](https://github.com/raycyril88/raycyril88.github.io/blob/main/assets/img/PowerBi%20screenshot.png)
   
 
 
