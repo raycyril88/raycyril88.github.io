@@ -51,9 +51,10 @@ Looking forward to working with you!
    - I have utilized statistical analysis to comprehend the existing state of underemployment and forecast future trends in order to provide focused interventions for development.
    - I've developed a user-friendly prediction model using the Labor Force Survey dataset, employing the SVM model which had the highest accuracy based on testing. This model will efficiently determine whether the employee is underemployed or not. It's an easy and effective tool for making predictions based on key factors.
 
-[Excel Dashboard](https://github.com/raycyril88/raycyril88.github.io/blob/main/assets/img/Excel%20Dashboard.PNG)
+![Excel Dashboard](/assets/img/Excel%20Dashboard.PNG)
 
-[PowerBI Dashboard](https://github.com/raycyril88/raycyril88.github.io/blob/main/assets/img/PowerBi%20screenshot.png)
+
+![PowerBI Dashboard](/assets/img/PowerBi%20screenshot.png)
   
 
 
